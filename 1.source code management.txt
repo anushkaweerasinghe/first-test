@@ -1,0 +1,13 @@
+1.source code management 
+2.git / branch,pull, push / git bash/terminal ,version contral, centrelized things,
+git, can use windows,
+
+
+
+3.github - thrid party,
+4.ci-cd server - gitlab
+5.pipeline to it
+6.deploy- container, server 
+
+7.sec ops
+8.
